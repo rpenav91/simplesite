@@ -1,0 +1,10 @@
+https://www.googleapis.com/youtube/v3/channels?part=contentDetails&forUsername=LaureateChannel&key=AIzaSyC5rwPxv0NlkAJLzKFFkZts2Wz3GEMH9-Y
+
+https://www.googleapis.com/youtube/v3/playlistItems?part=contentDetails&playlistId=ilKL_uSIBNE&
+list=UUvS6-K6Ydmb4gH-kim3AmjA
+key=AIzaSyC5rwPxv0NlkAJLzKFFkZts2Wz3GEMH9-Y
+
+
+https://www.googleapis.com/youtube/v3/playlistItems?part=contentDetails&playListId=UUvS6-K6Ydmb4gH-kim3AmjA&key=AIzaSyC5rwPxv0NlkAJLzKFFkZts2Wz3GEMH9-Y&filter=
+
+https://content.googleapis.com/youtube/v3/playlistItems?maxResults=5&part=id&playlistId=UUvS6-K6Ydmb4gH-kim3AmjA&key=AIzaSyC5rwPxv0NlkAJLzKFFkZts2Wz3GEMH9-Y
