@@ -61,7 +61,7 @@ class VideoHandler(webapp2.RequestHandler):
 		json_data = json.loads(data)
         
 		self.response.out.headers['Content-Type'] = 'text/json'
-		self.response.out.write(json.dumps(json_data))
+		self.response.out.write(json.dumps(json_data['items']))
 		
     	
     	#title = "JSON"
