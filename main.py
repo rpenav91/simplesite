@@ -30,7 +30,7 @@ JINJA_ENVIRONMENT = jinja2.Environment(
 
 
 
-MAIN_API = "https://content.googleapis.com/youtube/v3/playlistItems?maxResults=5&part=contentDetails&playlistId=UUvS6-K6Ydmb4gH-kim3AmjA&key=AIzaSyC5rwPxv0NlkAJLzKFFkZts2Wz3GEMH9-Y"
+MAIN_API = "https://content.googleapis.com/youtube/v3/playlistItems?maxResults=5&part=snippet&playlistId=UUvS6-K6Ydmb4gH-kim3AmjA&key=AIzaSyC5rwPxv0NlkAJLzKFFkZts2Wz3GEMH9-Y"
 
 class JsonHandler(webapp2.RequestHandler):
     def get(self):
